@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="uVOgGUbRXIfyA6TBCtmS" name="Page-1">
-        <mxGraphModel dx="1490" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1490" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -138,7 +138,7 @@
                         <mxPoint x="610" y="450" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="53" value="User received 1200 Mina" style="endArrow=classic;html=1;exitX=0.3;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="43" target="41">
+                <mxCell id="53" value="User received 1100 Mina" style="endArrow=classic;html=1;exitX=0.3;exitY=0.892;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="43" target="41">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="560" y="500" as="sourcePoint"/>
                         <mxPoint x="610" y="450" as="targetPoint"/>
